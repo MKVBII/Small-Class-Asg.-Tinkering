@@ -1,4 +1,4 @@
-#Strig manipulation
+#String manipulation
 
 def isNum(str: str):
     if str.isdigit():
