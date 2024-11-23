@@ -1,3 +1,5 @@
+#Strig manipulation
+
 def isNum(str: str):
     if str.isdigit():
         print('Yes')
